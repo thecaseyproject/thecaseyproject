@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thecaseyproject
-- 👀 I’m interested in expanding my skills in development.  I'm currently a network/system administrator.
+- 👀 I’m interested in expanding my skills in development.  I'm currently a Systems Lead.
 - 🌱 I’m currently learning Python and working to gather a deeper understanding of systems I work in.
 
 
