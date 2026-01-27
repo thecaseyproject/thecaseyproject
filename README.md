@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @thecaseyproject
-- 👀 I’m interested in expanding my skills in development.  I'm currently a Systems Lead.
-- 🌱 I’m currently learning Python and working to gather a deeper understanding of systems I work in.
+-  Hi, I’m @thecaseyproject
+- I’m interested in expanding my skills in development.
+- Pyhon, CCNA, and Cloud Networking are the areas I'm interested in. 
+
 
 
 <!---
