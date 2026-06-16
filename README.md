@@ -1,4 +1,4 @@
--  Hi, I’m @thecaseyproject
+
 - I’m interested in expanding my skills in development.
 - Pyhon, CCNA, and Cloud Networking are the areas I'm interested in. 
 
